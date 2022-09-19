@@ -1,0 +1,10 @@
+.header {
+    background-color: lightgray;
+    width: 100%;
+    .drop-down{
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        margin-inline-end: 200px;
+    }
+}
